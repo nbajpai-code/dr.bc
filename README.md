@@ -16,6 +16,8 @@ Welcome to the comprehensive repository for Disaster Recovery (DR) and Business 
    * Modern approaches to Disaster Recovery leveraging cloud-native architectures, multi-region deployments, and multi-cloud strategies.
 6. [Crisis Communication Plan](Crisis_Communication_Plan.md)
    * Guidelines and templates for internal and external communication during a crisis or disaster event.
+7. [Professional Certifications & Training](Professional_Certifications_and_Training.md)
+   * A curated list of industry-demanded DR/BC certifications (CBCP, E|DRP, Cloud) and learning resources.
 
 ## 🎯 Key Concepts
 
